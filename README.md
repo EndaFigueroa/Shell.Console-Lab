@@ -191,3 +191,5 @@ Now let's practice one more backgrounding technique with a different command.
 3. "Command Line Crash Course" http://learnpythonthehardway.org/book/appendixa.html
 4. "VIM 101" https://www.linux.com/learn/vim-101-beginners-guide-vim
 
+//I am making a change so that I can commit
+//I want to clear it from my homepage
